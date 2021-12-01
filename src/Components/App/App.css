@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.App__left-side {
+  min-width: 50%;
+}
